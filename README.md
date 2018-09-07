@@ -1,0 +1,2 @@
+# njs
+node.js test
